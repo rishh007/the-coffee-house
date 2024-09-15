@@ -27,5 +27,4 @@ A simple Python-based coffee machine simulator that allows users to select their
     - If the amount is exact or more, the coffee is served, and change is provided if necessary.<br>
 5. The machine deducts the used ingredients and updates the money earned.<br>
 
-## Example Output
 
