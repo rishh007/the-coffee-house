@@ -40,9 +40,6 @@ A simple Python-based coffee machine simulator that allows users to select their
 - Implement a graphical user interface (GUI).<br>
 - Include options for customizing coffee (e.g., sugar levels, milk options).<br>
 
-## License
-
-This project is licensed under the MIT License.<br>
 
 
 
