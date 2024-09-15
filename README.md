@@ -28,3 +28,21 @@ A simple Python-based coffee machine simulator that allows users to select their
 5. The machine deducts the used ingredients and updates the money earned.<br>
 
 
+
+## Project Structure
+
+- `coffee_machine.py`: Main program logic for the coffee machine simulator.<br>
+- `art.py`: Contains ASCII art for the coffee machine and drink illustrations (espresso, latte, cappuccino).<br>
+
+## Future Improvements
+
+- Add more coffee types (e.g., Mocha, Americano).<br>
+- Implement a graphical user interface (GUI).<br>
+- Include options for customizing coffee (e.g., sugar levels, milk options).<br>
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.<br>
+
+
+
